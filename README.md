@@ -20,7 +20,7 @@
 
 ## Programming practices & Javadoc
 
-### 8. Use @Override liberally
+### 8. Use @Override when you are expecting to override
 ### 9. Don't ignore caught exceptions
 ### 10. Call static methods on class not instance
 ### 11. Detailed comment for a class at the top of the file
