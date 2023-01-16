@@ -57,7 +57,7 @@
    It can be used along with Java as it runs on the JVM (it can import Java libraries and vice versa).
    It has 'match expressions' which can be used like switch cased
    
- ## Patter Matching
+ ## Pattern Matching
    Scala does support patter matching and can be implemented as follows:
    def examine[T](seq: Seq[T]): Seq[String] = seq map {
           case i: Int => s"Int: $i"
